@@ -1,0 +1,2 @@
+This file uses ANSI encoding.
+BFG will be able to clean it up.

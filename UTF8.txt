@@ -1,0 +1,2 @@
+This file uses UTF-8 encoding.
+BFG will be able to clean it up.
